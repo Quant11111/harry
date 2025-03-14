@@ -260,9 +260,9 @@ export default function Home() {
                     À Propos de Moi
                   </Typography>
                   <Typography variant="body1" paragraph>
-                    Passionné par l'art du montage vidéo depuis plus de 10 ans,
-                    je m'efforce de créer des expériences visuelles uniques qui
-                    captivent et émeuvent.
+                    Passionné par l&apos;art du montage vidéo depuis plus de 10
+                    ans, je m&apos;efforce de créer des expériences visuelles
+                    uniques qui captivent et émeuvent.
                   </Typography>
                   <Typography variant="body1" paragraph>
                     Spécialisé dans les clips musicaux, publicités et
