@@ -62,3 +62,7 @@ npm run build
 ## Licence
 
 Tous droits réservés © Harry LN
+
+## Made by
+
+Quant11111
